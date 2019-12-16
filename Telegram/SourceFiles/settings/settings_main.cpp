@@ -100,7 +100,7 @@ void SetupSections(
 }
 
 bool HasInterfaceScale() {
-	return true;
+	return false;
 }
 
 void SetupInterfaceScale(
